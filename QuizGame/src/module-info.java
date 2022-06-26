@@ -1,2 +1,2 @@
-module QuizGame {GRRRR
+module QuizGame {
 }
