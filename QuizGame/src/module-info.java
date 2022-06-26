@@ -1,0 +1,2 @@
+module QuizGame {
+}
